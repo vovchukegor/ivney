@@ -1,2 +1,0 @@
-# ivney
-mod for minecraft
